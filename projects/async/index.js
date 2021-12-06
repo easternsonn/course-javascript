@@ -32,7 +32,7 @@
 import './towns.html';
 import { loadAndSortTowns } from './functions';
 
-const homeworkContainer = document.querySelector('#homework-container');
+const homeworkContainer = document.querySelector('#app');
 
 /*
  Функция должна вернуть Promise, который должен быть разрешен с массивом городов в качестве значения
